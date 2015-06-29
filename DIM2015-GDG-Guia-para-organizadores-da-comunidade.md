@@ -1,21 +1,23 @@
+![Logo Women Techmakers](http://3.bp.blogspot.com/-I8eJXUiWDSo/U93vn7XAxSI/AAAAAAACUKg/2detj202dHo/s1600/logo.png)
+
 # Conectar. Criar. Celebrar.
-(documento traduzido do [original em inglês](https://docs.google.com/document/d/1CIg3TTYnjO4OLfvrsTArL4N4La0P0HUNSgZ8lV-jNHU/edit))
+(traduzido do [original em inglês](https://docs.google.com/document/d/1CIg3TTYnjO4OLfvrsTArL4N4La0P0HUNSgZ8lV-jNHU/edit) em Janeiro/2015)
 
 _Um guia para os GDGs que sediarem eventos para o Dia Internacional da Mulher_
 
-* [Boas práticas para o Dia Internacional da Mulher 2015][]
-  * [Um Dia Mês para se Celebrar][]
-  * [Formatos de Eventos][]
-  * [Público Pretendido][]
-  * [Data do Evento][]
-  * [Usando o Logotipo e Marcas][]
-  * [Causando Impacto][]
-  * [Recursos extras para Lideranças Women Techmakers Leads][]
-* [Atividade Sugeridas para os Capítulos][]
-  * [Possíveis componentes de eventos][]
-  * [Determinar quais componentes são adequados para seu evento][]
-  * [Parcerias com desenvolvedoras locais e organizações de design][]
-* [FAQs][]
+* [Boas práticas para o Dia Internacional da Mulher 2015](#boas-práticas-para-o-dia-internacional-da-mulher-2015)
+  * [Um Dia Mês para se Celebrar](#um-dia-mês-para-se-celebrar)
+  * [Formatos de Eventos](#formato-de-eventos)
+  * [Público Pretendido](#público-pretendido)
+  * [Data do Evento](#data-do-evento)
+  * [Usando o Logotipo e Marcas](#usando-o-logotipo-e-marcas)
+  * [Causando Impacto](#causando-impacto)
+  * [Recursos extras para Lideranças Women Techmakers](#recursos-extras-para-lideranças-women-techmakers)
+* [Atividade Sugeridas para os Capítulos](#atividade-sugeridas-para-os-capítulos)
+  * [Possíveis componentes de eventos](#possíveis-componentes-de-eventos)
+  * [Determinar quais componentes são adequados para seu evento](#determinar-quais-componentes-são-adequados-para-seu-evento)
+  * [Parcerias com desenvolvedoras locais e organizações de design](#parcerias-com-desenvolvedoras-locais-e-empresas-de-design)
+* [FAQs](#faqs)
 
 
 # Conheça o Women Techmakers
@@ -40,14 +42,14 @@ Mulher - 125 eventos, 52 países, +11.000 participantes
 # Boas práticas para o Dia Internacional da Mulher 2015
 
 
-## Um Mês para se Celebrar
+<h2>Um <del>Dia</del> <ins>Mês</ins> para se Celebrar</h2>
 
 O Dia Internacional da Mulheres, oficialmente em 8 de março de 2015, é um dia para celebrar
 as conquistas das mulheres na luta por maior igualdade dentro das comunidades. Como Women
 Techmakers desenvolvido pelos Google Developers Groups, planejamentos fazer isto aprimorando
 nossos programas ​por meio de feedback de eventos​, aumentando a quantidade de mulheres a fazer
 parte dos GDGs ​por meio de colaboração mútua​ e aumentando a conscientização ​por meio das
-mídias sociais​. Veja abaixo algumas maneiras de como ​[causar impacto]​(#causando-impacto) neste ano.
+mídias sociais​. Veja abaixo algumas maneiras de como [causar impacto](#causando-impacto) neste ano.
 
 
 ## Formato de Eventos
@@ -56,7 +58,7 @@ O tema deste ano é ​**Conectar. Criar. Celebrar.​**  Isto pode significar c
 para pessoas diferentes e estou animada para ver como você vai explorar sua criatividade
 para incorporar este tema em seu evento.  Semelhante ao ano passado, os formatos de eventos
 e os tamanhos são definidos por você e sua comunidade.  Ideias adicionais podem ser
-encontradas na seção de ​[Atividades sugeridas para os capítulos​][] (também encontrada no 
+encontradas na seção de ​[Atividade Sugeridas para os Capítulos](#atividade-sugeridas-para-os-capítulos) (também encontrada no 
 [Guia para Organizadores do Women Techmakers​](https://docs.google.com/document/d/1xWYz5byXTo0DRbiRzxcpCjjUnC5fnpyjp4LwiAApP4A/edit#heading=h.eq54svs58zsc)).
 Encontrar maneiras criativas de encorajar as mulheres a se engajar do aprendizado de
 tecnologias Google, apresentar casos de sucesso de mulheres em tecnologia e de destaque
@@ -89,17 +91,18 @@ por favor envie-nos por e-mail para [women-techmakers@google.com](mailto:women-t
 ## Causando Impacto
 
 
-### Compartilhe feedback conosco**
+### Compartilhe feedback conosco
 
-Gostaríamos de ouvir de você e de seu público -- Como foi o evento? Quantas pessoas
+Gostaríamos de ouvir de você e de seu público.  Como foi o evento? Quantas pessoas
 participaram? Utilize estes formularios para nos ajudar a sempre melhorar os próximos
 eventos:
-1. [Formulário de Feedback de Participante](https://docs.google.com/a/google.com/forms/d/1XUSVVh_JzvpVXnQTufKUNpByHJVcyaepo7lpdrW8oUE/viewform)
-2. [Formulário de Feedback de Organizador](https://docs.google.com/a/google.com/forms/d/1r0exI0N9TJU7oQg_SOftXwH0qkUprcv2kMDt-ocrXQQ/viewform)
+
+1. Formulário de [Feedback de Participante](https://docs.google.com/a/google.com/forms/d/1XUSVVh_JzvpVXnQTufKUNpByHJVcyaepo7lpdrW8oUE/viewform)
+2. Formulário de [Feedback de Organizador](https://docs.google.com/a/google.com/forms/d/1r0exI0N9TJU7oQg_SOftXwH0qkUprcv2kMDt-ocrXQQ/viewform)
 3. Registre seu evento na [página de eventos dos GDGs](http://developers.google.com/events) com uma tag #WTM
 
 
-### Aumente o número de mulheres em seu capítulo**
+### Aumente o número de mulheres em seu capítulo
 
 Tome isto como uma oportunidade de aumentar o número de mulheres desenvolvedoras,
 designers e empreendedoras em tecnologia na sua comunidade. Isto é uma grande maneira
@@ -116,6 +119,7 @@ de compartilhar informação sobre seu capítulo e aumentar o número de mulhere
 
 Depois de listar seu evento na ​[página de eventos](http://developers.google.com/events) do GDG​
 (com uma tag #WTM), encorajamos você a:
+
 1. Divulgar seus eventos compartilhando-os com a [​Comunidade Women Techmakers no Google+​](https://plus.google.com/communities/100202454944694552166) para deixar as mulheres de todo o mundo saberem no que você está trabalhando
 2. Compartilhar em seu círculo pessoal e suas contas de mídias sociais, assegurando-se de usar a tag ​#WomenTechmakers
 3. Promover seus eventos usando as mídias sociais de capítulos GDG existentes e incluir a hashtag ​#WomenTechmakers
@@ -191,7 +195,8 @@ No Brasil, um grupo de atuação destacada há alguns anos era o ​[LinuxChicks
 
 # FAQs
 
-**Para quantas pessoas deve ser meu evento?**
+### Para quantas pessoas deve ser meu evento?
+
 Busque por qualidade e não por quantidade.  Apesar de esta máxima já ser válida para todos 
 os eventos dos GDGs, é ainda mais especialmente verdade para eventos com foco em 
 ações inclusivas.  Já houve eventos para públicos tão pequenos quanto 15 pessoas como 
@@ -199,24 +204,32 @@ tão grandes quanto 200.  Procure fazer o que faz sentido para o formato do seu 
 segundo seu orçamento disponível, sua infraestrutura de rede e computadores disponíveis e 
 que seja o ideal para seu público.
 
-**Como eu solicito financiamento para o evento?**
+
+### Como eu solicito financiamento para o evento?
+
 Patrocínios para eventos e solicitações para uso de materiais e marcas devem ser
 gerenciados como de costume pelo GDG e processados pelo seu contato regional Google.
 
-**E se não tivermos uma Liderança Women Techmakers?**
+
+### E se não tivermos uma Liderança Women Techmakers?
+
 Tome isso como uma oportunidade para fazer uma sessão de repasse de informação e 
 convide mulheres locais da área de tecnologia, organizações e associações de estudantes e 
 para divulgar melhor seu capítulo GDG.  Quem sabe nisso você seja capaz de encontrar uma 
 Liderança Women Techmakers e adicioná­la como uma co­organizadora de seu GDG! 
 
-**Os eventos do Dia Internacional da Mulher são apenas para mulheres?**
+
+### Os eventos do Dia Internacional da Mulher são apenas para mulheres?
+
 Como todos os eventos Women Techmakers, estes eventos não são destinados apenas para
 o público feminino. Ao contrário, são eventos que enfatizam a inclusão feminina e celebram
 o Dia Internacional da Mulher, em 8 de março. Dito isto, se eventos para um público
 exclusivamente feminino fizerem sentido e forem uma escolha de sua comunidade local,
 você pode realizá-lo assim tranquilamente.
 
-**O que posso dizer quando falar com a imprensa?**
+
+### O que posso dizer quando falar com a imprensa?
+
 Tal como em eventos do GDG, todas as declarações que você fizer sobre o Women
 Techmakers representam sua opinião pessoal e não são de responsabilidade do Google.
 
@@ -224,4 +237,4 @@ Ao falar com a imprensa, lembre-se de que você não é um porta-voz do Google. 
 felizes se você falar sobre o trabalho que sua comunidade está fazendo e porque você é
 parte da iniciativa Women Techmakers. Você pode citar qualquer informação que já esteja
 [publicamente disponível​](https://developers.google.com/women-techmakers/), incluindo o ​
-[histórico e a missão do programa​](#).
+[histórico e a missão do programa​](https://docs.google.com/document/d/1CIg3TTYnjO4OLfvrsTArL4N4La0P0HUNSgZ8lV-jNHU/edit#heading=h.au2xh7vbxbn9).
